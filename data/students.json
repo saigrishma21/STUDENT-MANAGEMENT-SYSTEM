@@ -1,0 +1,13 @@
+[
+    {
+        "student_id": "S102",
+        "name": "greeshma",
+        "age": 21,
+        "course": "cse",
+        "marks": {
+            "Python": 90.0,
+            "Database": 90.0,
+            "Web Development": 85.0
+        }
+    }
+]
